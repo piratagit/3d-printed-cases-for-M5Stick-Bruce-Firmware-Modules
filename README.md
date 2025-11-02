@@ -4,25 +4,28 @@
 The STL files are on the 'files' repository for download.
 Fell free to comment, modify and distribute it.
 
-![The 2 modules](/images/IMG_20251102_123822.jpg))
+![The 2 modules](/images/2_modules.jpg))
 
-<img src="/images/IMG_20251102_123822.jpg" alt="The 2 modules" style="width:50%;height:auto;">
-
-![The NRF24 module with the wires](/images/IMG_20250927_155010.jpg))
+![The NRF24 module with the wires](/images/nrf24_wired.jpg))
 
 
 # NRF24 
 
 [Download Page](/files/nrf24_pulseira.stl)
 
-![NRF24 front](/images/IMG_20251102_150623.jpg))
-![NRF24 back](/images/IMG_20251102_150627.jpg))
+![NRF24 front](/images/nrf24_front.jpg))
+![NRF24 back](/images/nrf24_back.jpg))
 
 # CC1101 
 
 [Download Page](/files/nrf24_pulseira.stl)
 
-![CC1101 front](/images/IMG_20251102_150610.jpg))
-![CC1101 back](/images/IMG_20251102_150616.jpg))
+![CC1101 front](/images/cc1101_front.jpg))
+![CC1101 back](/images/cc1101_back.jpg))
+
+Happy Hacking !
+
+![CC1101 back](/images/nrf24_wired.jpg))
+
 
 
