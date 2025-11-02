@@ -6,6 +6,8 @@ Fell free to comment, modify and distribute it.
 
 ![The 2 modules](/images/IMG_20251102_123822.jpg))
 
+<img src="/images/IMG_20251102_123822.jpg" alt="The 2 modules" style="width:50%;height:auto;">
+
 ![The NRF24 module with the wires](/images/IMG_20250927_155010.jpg))
 
 
