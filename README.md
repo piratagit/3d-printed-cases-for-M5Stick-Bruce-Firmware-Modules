@@ -11,14 +11,14 @@ Fell free to comment, modify and distribute it.
 
 # NRF24 
 
-[Download Page](/files/nrf24_pulseira.stl))
+[Download Page](/files/nrf24_pulseira.stl)
 
 ![NRF24 front](/images/IMG_20251102_150623.jpg))
 ![NRF24 back](/images/IMG_20251102_150627.jpg))
 
 # CC1101 
 
-[Download Page](/files/nrf24_pulseira.stl))
+[Download Page](/files/nrf24_pulseira.stl)
 
 ![CC1101 front](/images/IMG_20251102_150610.jpg))
 ![CC1101 back](/images/IMG_20251102_150616.jpg))
