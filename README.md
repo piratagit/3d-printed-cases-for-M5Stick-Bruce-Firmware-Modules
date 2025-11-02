@@ -4,7 +4,7 @@
 The STL files are below and on the 'files' repository for download.
 Fell free to comment, modify and distribute it.
 
-It's a v1 that i'm sharing (it's a little loose inside) but it will do trhe trick !!
+It's a v1 that i'm sharing (it's a little loose inside) but it will do trhe trick !! Working on it to improve !
 
 Special thanks for @pr3y for the project and @bmorcelli for the module tips !
 
