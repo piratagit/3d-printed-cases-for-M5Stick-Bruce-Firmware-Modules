@@ -1,12 +1,16 @@
 
 ## 3D Printed Cases for NRF24 and CC1101 modules to be used with the M5SticlPlus 1/2 with Bruce Firmware or any other
 
-The STL files are on the 'files' repository for download.
+The STL files are below and on the 'files' repository for download.
 Fell free to comment, modify and distribute it.
 
-![The 2 modules](/images/2_modules.jpg))
+It's a v1 that i'm sharing (it's a little loose inside) but it will do trhe trick !!
 
-![The NRF24 module with the wires](/images/nrf24_wired.jpg))
+Special thanks for @pr3y for the project and @bmorcelli for the module tips !
+
+![The 2 modules](/images/2_modules.jpg)
+
+![The NRF24 module with the wires](/images/nrf24_wired.jpg)
 
 
 # NRF24 
