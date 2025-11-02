@@ -22,7 +22,7 @@ Special thanks for @pr3y for the project and @bmorcelli for the module tips !
 
 # CC1101 
 
-[Download Page](/files/nrf24_pulseira.stl)
+[Download Page](/files/cc1101_pulseira.stl)
 
 ![CC1101 front](/images/cc1101_front.jpg)
 ![CC1101 back](/images/cc1101_back.jpg)
